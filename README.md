@@ -5,3 +5,5 @@ In this repository I will track my progress with learning and implementing a cus
 Listing videos and resources I use:
 
 https://www.youtube.com/watch?v=g3UarOHx7YI
+
+https://www.youtube.com/watch?v=NX5H8DVARjI
